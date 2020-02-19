@@ -24,5 +24,5 @@ class App < Sinatra::Base
     erb :multiply
   end 
   
-  
+
 end
